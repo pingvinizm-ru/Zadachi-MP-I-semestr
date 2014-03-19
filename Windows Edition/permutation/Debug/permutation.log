@@ -1,0 +1,24 @@
+﻿Построение начато 18.12.2013 16:01:39.
+     1>Проект "C:\Users\Пингвин\Desktop\1\permutation\permutation.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\permutation.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\permutation.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt permutation.cpp
+         permutation.cpp
+     1>c:\users\пингвин\desktop\1\permutation\permutation.cpp(26): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Пингвин\Desktop\1\permutation\Debug\permutation.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\permutation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Пингвин\Desktop\1\permutation\Debug\permutation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Пингвин\Desktop\1\permutation\Debug\permutation.lib" /MACHINE:X86 Debug\permutation.obj
+         Debug\stdafx.obj
+     1>permutation.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         permutation.vcxproj -> C:\Users\Пингвин\Desktop\1\permutation\Debug\permutation.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Пингвин\Desktop\1\permutation\Debug\permutation.exe;#1" /manifest Debug\permutation.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\permutation.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\permutation.lastbuildstate".
+     1>Построение проекта "C:\Users\Пингвин\Desktop\1\permutation\permutation.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.33

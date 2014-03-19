@@ -1,0 +1,27 @@
+﻿Построение начато 18.12.2013 23:37:39.
+     1>Проект "C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\lsd-lexic.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lsd-lexic.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\lsd-lexic.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\lsd-lexic.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "lsd-lexic.cpp"
+         lsd-lexic.cpp
+     1>c:\users\пингвин\yandexdisk\программы\задачи мп\windows edition\lsd-lexic\lsd-lexic.cpp(25): warning C4018: >: несоответствие типов со знаком и без знака
+     1>c:\users\пингвин\yandexdisk\программы\задачи мп\windows edition\lsd-lexic\lsd-lexic.cpp(36): warning C4018: >: несоответствие типов со знаком и без знака
+     1>cl : командная строка warning D9028: сбой минимального перестроения, возврат к обычному построению
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\Debug\lsd-lexic.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lsd-lexic.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\Debug\lsd-lexic.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\Debug\lsd-lexic.lib" /MACHINE:X86 "Debug\lsd-lexic.obj"
+         Debug\stdafx.obj
+     1>lsd-lexic.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         lsd-lexic.vcxproj -> C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\Debug\lsd-lexic.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\Debug\lsd-lexic.exe;#1" /manifest "Debug\lsd-lexic.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\lsd-lexic.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lsd-lexic.lastbuildstate".
+     1>Построение проекта "C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\lsd-lexic\lsd-lexic.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.92

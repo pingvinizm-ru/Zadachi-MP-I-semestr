@@ -1,0 +1,18 @@
+﻿Построение начато 19.12.2013 1:15:34.
+     1>Проект "C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\tree_lite\tree_lite.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\tree_lite.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         tree_lite.vcxproj -> C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\tree_lite\Debug\tree_lite.exe
+       FinalizeBuildStatus:
+         Файл "Debug\tree_lite.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\tree_lite.lastbuildstate".
+     1>Построение проекта "C:\Users\Пингвин\YandexDisk\Программы\задачи МП\Windows Edition\tree_lite\tree_lite.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.08
